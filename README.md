@@ -50,7 +50,7 @@ src/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/kelvincharlesdev/nlw-server.git
+git clone https://github.com/kelvincharlesdev/nlw-agents-server.git
 cd server
 ```
 
